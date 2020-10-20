@@ -18,7 +18,7 @@
 
 ---
 <a href="https://github.com/dreamlessss/dreamlessss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlessss&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=45,4b79a1,283e51" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlessss&hide=html,powershell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=45,4b79a1,283e51" />
 </a>
 <a href="https://github.com/dreamlessss/dreamlessss">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamlessss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fcfffe&icon_color=1bb589&bg_color=30,b24592,f15f79" alt="Zahid github Stats" />
